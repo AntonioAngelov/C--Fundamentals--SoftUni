@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.pdb

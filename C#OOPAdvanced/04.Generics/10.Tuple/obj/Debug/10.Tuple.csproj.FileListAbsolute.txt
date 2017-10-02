@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\10.Tuple\bin\Debug\10.Tuple.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\10.Tuple\bin\Debug\10.Tuple.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\10.Tuple\bin\Debug\10.Tuple.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\10.Tuple\obj\Debug\10.Tuple.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\10.Tuple\obj\Debug\10.Tuple.pdb

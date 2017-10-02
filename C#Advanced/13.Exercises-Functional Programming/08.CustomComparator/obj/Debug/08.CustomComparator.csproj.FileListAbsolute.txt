@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\08.CustomComparator\bin\Debug\08.CustomComparator.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\08.CustomComparator\bin\Debug\08.CustomComparator.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\08.CustomComparator\bin\Debug\08.CustomComparator.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\08.CustomComparator\obj\Debug\08.CustomComparator.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\08.CustomComparator\obj\Debug\08.CustomComparator.pdb

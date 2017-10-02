@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.pdb

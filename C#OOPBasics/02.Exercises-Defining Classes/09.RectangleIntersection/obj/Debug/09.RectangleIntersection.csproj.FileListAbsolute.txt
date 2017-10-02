@@ -1,0 +1,1 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe.config

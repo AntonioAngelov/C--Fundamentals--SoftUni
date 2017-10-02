@@ -1,0 +1,1 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\07.Lab-Polymorphism\03.Shapes\bin\Debug\03.Shapes.exe.config

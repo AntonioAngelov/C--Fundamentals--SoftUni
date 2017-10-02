@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb

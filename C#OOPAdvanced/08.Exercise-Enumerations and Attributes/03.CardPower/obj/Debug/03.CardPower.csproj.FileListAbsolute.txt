@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\bin\Debug\03.CardPower.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\bin\Debug\03.CardPower.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\bin\Debug\03.CardPower.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\obj\Debug\03.CardPower.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\obj\Debug\03.CardPower.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\03.CardPower\obj\Debug\03.CardPower.pdb

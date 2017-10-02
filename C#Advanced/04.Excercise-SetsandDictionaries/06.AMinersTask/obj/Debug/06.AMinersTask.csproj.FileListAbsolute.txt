@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.pdb

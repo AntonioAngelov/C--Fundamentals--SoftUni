@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\02. Knights OfHonor\bin\Debug\_02.Knights_OfHonor.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\02. Knights OfHonor\bin\Debug\_02.Knights_OfHonor.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\02. Knights OfHonor\bin\Debug\_02.Knights_OfHonor.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\02. Knights OfHonor\obj\Debug\_02.Knights_OfHonor.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\02. Knights OfHonor\obj\Debug\_02.Knights_OfHonor.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\bin\Debug\04.AddVAT.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\bin\Debug\04.AddVAT.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\bin\Debug\04.AddVAT.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\obj\Debug\04.AddVAT.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\obj\Debug\04.AddVAT.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\04.AddVAT\obj\Debug\04.AddVAT.pdb

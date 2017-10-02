@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\bin\Debug\_04.CodingTracker.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\bin\Debug\_04.CodingTracker.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\bin\Debug\_04.CodingTracker.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\obj\Debug\04. CodingTracker.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\obj\Debug\_04.CodingTracker.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\04. CodingTracker\obj\Debug\_04.CodingTracker.pdb

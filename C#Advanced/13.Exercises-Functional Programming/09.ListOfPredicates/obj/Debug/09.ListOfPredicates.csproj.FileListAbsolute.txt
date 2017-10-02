@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.pdb

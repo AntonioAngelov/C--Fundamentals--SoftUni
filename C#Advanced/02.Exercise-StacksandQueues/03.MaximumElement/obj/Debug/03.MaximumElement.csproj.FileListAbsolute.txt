@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\obj\Debug\03.MaximumElement.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\03.MaximumElement\obj\Debug\03.MaximumElement.csprojResolveAssemblyReference.cache

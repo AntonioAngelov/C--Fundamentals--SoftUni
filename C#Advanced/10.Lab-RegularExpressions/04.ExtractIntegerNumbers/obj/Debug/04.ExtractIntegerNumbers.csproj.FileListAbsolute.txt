@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.pdb

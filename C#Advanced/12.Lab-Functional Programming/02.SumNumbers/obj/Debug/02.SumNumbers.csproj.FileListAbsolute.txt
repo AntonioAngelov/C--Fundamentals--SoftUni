@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\02.SumNumbers\bin\Debug\02.SumNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\02.SumNumbers\bin\Debug\02.SumNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\02.SumNumbers\bin\Debug\02.SumNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\02.SumNumbers\obj\Debug\02.SumNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\02.SumNumbers\obj\Debug\02.SumNumbers.pdb

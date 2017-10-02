@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.pdb

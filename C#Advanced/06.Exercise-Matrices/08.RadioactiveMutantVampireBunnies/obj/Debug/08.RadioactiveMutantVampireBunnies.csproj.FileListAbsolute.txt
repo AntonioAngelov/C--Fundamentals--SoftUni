@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\bin\Debug\08.RadioactiveMutantVampireBunnies.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\08.RadioactiveMutantVampireBunnies\obj\Debug\08.RadioactiveMutantVampireBunnies.pdb

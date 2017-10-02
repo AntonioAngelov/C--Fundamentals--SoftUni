@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\bin\Debug\06.CompanyRoster.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\bin\Debug\06.CompanyRoster.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\obj\Debug\06.CompanyRoster.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\obj\Debug\06.CompanyRoster.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\06.CompanyRoster\obj\Debug\06.CompanyRoster.pdb

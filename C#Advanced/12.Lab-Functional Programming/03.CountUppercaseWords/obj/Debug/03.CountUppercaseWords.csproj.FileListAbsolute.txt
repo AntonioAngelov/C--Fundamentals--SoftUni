@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.pdb

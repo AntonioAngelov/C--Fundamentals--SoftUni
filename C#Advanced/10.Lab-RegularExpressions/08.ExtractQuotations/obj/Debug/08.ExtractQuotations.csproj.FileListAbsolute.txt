@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\08.ExtractQuotations\obj\Debug\08.ExtractQuotations.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\08.ExtractQuotations\obj\Debug\08.ExtractQuotations.pdb

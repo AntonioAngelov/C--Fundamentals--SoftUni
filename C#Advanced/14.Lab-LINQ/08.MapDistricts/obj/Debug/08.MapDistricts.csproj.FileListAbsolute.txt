@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\bin\Debug\08.MapDistricts.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\bin\Debug\08.MapDistricts.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\bin\Debug\08.MapDistricts.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\obj\Debug\08.MapDistricts.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\obj\Debug\08.MapDistricts.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\08.MapDistricts\obj\Debug\08.MapDistricts.pdb

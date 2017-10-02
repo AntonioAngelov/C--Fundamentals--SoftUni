@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\bin\Debug\08.CardGame.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\obj\Debug\08.CardGame.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\bin\Debug\08.CardGame.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\bin\Debug\08.CardGame.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\obj\Debug\08.CardGame.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\08.CardGame\obj\Debug\08.CardGame.pdb

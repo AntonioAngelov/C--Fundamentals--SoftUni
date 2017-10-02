@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\09. StudentsEnrolledIn2014Or2015\bin\Debug\_09.StudentsEnrolledIn2014Or2015.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\09. StudentsEnrolledIn2014Or2015\bin\Debug\_09.StudentsEnrolledIn2014Or2015.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\09. StudentsEnrolledIn2014Or2015\bin\Debug\_09.StudentsEnrolledIn2014Or2015.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\09. StudentsEnrolledIn2014Or2015\obj\Debug\_09.StudentsEnrolledIn2014Or2015.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\09. StudentsEnrolledIn2014Or2015\obj\Debug\_09.StudentsEnrolledIn2014Or2015.pdb

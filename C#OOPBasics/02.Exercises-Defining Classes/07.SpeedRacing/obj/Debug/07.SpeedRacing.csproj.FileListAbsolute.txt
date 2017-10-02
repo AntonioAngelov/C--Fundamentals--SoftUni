@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\bin\Debug\07.SpeedRacing.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\bin\Debug\07.SpeedRacing.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\obj\Debug\07.SpeedRacing.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\obj\Debug\07.SpeedRacing.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\07.SpeedRacing\obj\Debug\07.SpeedRacing.pdb

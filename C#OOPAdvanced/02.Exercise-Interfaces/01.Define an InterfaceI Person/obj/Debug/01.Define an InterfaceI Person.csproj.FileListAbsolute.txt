@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\bin\Debug\01.Define an InterfaceI Person.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\bin\Debug\01.Define an InterfaceI Person.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\bin\Debug\01.Define an InterfaceI Person.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\obj\Debug\01.Define an InterfaceI Person.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\obj\Debug\01.Define an InterfaceI Person.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\01.Define an InterfaceI Person\obj\Debug\01.Define an InterfaceI Person.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.pdb

@@ -1,0 +1,17 @@
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.exe
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.exe.config
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\obj\Debug\Hell.exe
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\obj\Debug\Hell.pdb
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.pdb
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.exe
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.pdb
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.exe.config
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.exe
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\bin\Debug\Hell.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\obj\Debug\Hell.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\obj\Debug\Hell.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\bin\Debug\Hell.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell\bin\Debug\Hell.pdb

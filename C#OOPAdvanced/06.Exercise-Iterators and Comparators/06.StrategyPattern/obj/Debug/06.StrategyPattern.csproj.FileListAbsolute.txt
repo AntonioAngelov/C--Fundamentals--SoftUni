@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\bin\Debug\06.StrategyPattern.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\bin\Debug\06.StrategyPattern.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\bin\Debug\06.StrategyPattern.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\obj\Debug\06.StrategyPattern.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\obj\Debug\06.StrategyPattern.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\06.StrategyPattern\obj\Debug\06.StrategyPattern.pdb

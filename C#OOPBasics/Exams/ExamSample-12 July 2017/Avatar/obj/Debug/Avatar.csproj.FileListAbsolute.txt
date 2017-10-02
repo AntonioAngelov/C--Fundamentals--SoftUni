@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\bin\Debug\Avatar.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\bin\Debug\Avatar.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\bin\Debug\Avatar.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\obj\Debug\Avatar.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\ExamSample-12 July 2017\Avatar\obj\Debug\Avatar.pdb

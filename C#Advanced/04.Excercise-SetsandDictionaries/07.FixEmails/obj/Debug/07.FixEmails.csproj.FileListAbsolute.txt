@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\07.FixEmails\bin\Debug\07.FixEmails.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\07.FixEmails\obj\Debug\07.FixEmails.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\07.FixEmails\obj\Debug\07.FixEmails.pdb

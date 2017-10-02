@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\bin\Debug\People.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\bin\Debug\People.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\bin\Debug\People.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\obj\Debug\People.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\03.Lab-Encapsulation\People\obj\Debug\People.pdb

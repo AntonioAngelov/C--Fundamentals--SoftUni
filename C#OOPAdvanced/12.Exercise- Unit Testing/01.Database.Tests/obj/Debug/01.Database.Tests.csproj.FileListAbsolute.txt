@@ -1,0 +1,9 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\01.Database.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\01.Database.Tests.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\01.Database.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\nunit.framework.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\01.Database.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\bin\Debug\nunit.framework.xml
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\obj\Debug\01.Database.Tests.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\obj\Debug\01.Database.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\01.Database.Tests\obj\Debug\01.Database.Tests.pdb

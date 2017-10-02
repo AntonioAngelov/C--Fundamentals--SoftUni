@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.pdb

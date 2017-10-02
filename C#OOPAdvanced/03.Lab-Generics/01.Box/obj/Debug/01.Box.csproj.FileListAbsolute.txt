@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\bin\Debug\01.Box.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\bin\Debug\01.Box.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\bin\Debug\01.Box.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\obj\Debug\01.Box.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\obj\Debug\01.Box.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\01.Box\obj\Debug\01.Box.pdb

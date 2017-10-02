@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb

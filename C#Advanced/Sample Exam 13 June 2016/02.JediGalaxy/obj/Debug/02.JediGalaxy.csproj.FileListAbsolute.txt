@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\02.JediGalaxy\bin\Debug\02.JediGalaxy.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\02.JediGalaxy\bin\Debug\02.JediGalaxy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\02.JediGalaxy\bin\Debug\02.JediGalaxy.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\02.JediGalaxy\obj\Debug\02.JediGalaxy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\02.JediGalaxy\obj\Debug\02.JediGalaxy.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.pdb

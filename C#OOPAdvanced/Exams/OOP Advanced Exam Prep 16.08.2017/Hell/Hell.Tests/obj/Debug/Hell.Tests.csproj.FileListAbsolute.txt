@@ -1,0 +1,9 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\Hell.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\Hell.Tests.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\Hell.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\nunit.framework.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\Hell.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\bin\Debug\nunit.framework.xml
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\obj\Debug\Hell.Tests.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\obj\Debug\Hell.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\Exams\OOP Advanced Exam Prep 16.08.2017\Hell\Hell.Tests\obj\Debug\Hell.Tests.pdb

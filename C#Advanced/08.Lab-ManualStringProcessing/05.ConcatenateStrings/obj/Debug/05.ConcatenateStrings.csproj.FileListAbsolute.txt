@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\05.ConcatenateStrings\bin\Debug\05.ConcatenateStrings.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\05.ConcatenateStrings\bin\Debug\05.ConcatenateStrings.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\05.ConcatenateStrings\bin\Debug\05.ConcatenateStrings.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\05.ConcatenateStrings\obj\Debug\05.ConcatenateStrings.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\05.ConcatenateStrings\obj\Debug\05.ConcatenateStrings.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

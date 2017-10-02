@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\bin\Debug\03.Mankind.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\bin\Debug\03.Mankind.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\bin\Debug\03.Mankind.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\obj\Debug\03.Mankind.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\obj\Debug\03.Mankind.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\03.Mankind\obj\Debug\03.Mankind.pdb

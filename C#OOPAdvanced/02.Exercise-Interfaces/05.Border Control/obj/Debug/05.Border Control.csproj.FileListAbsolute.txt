@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\bin\Debug\05.Border Control.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\bin\Debug\05.Border Control.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\bin\Debug\05.Border Control.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\obj\Debug\05.Border Control.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\obj\Debug\05.Border Control.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\05.Border Control\obj\Debug\05.Border Control.pdb

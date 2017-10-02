@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\bin\Debug\03.DependencyInversion.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\obj\Debug\03.DependencyInversion.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\obj\Debug\03.DependencyInversion.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\03.DependencyInversion\obj\Debug\03.DependencyInversion.pdb

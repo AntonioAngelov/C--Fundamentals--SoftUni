@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.pdb

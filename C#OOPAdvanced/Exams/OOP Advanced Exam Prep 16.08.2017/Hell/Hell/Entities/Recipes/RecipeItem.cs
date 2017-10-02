@@ -1,0 +1,68 @@
+﻿using System.Collections.Generic;
+using System.Linq;
+
+public class RecipeItem
+    : IRecipe
+{
+    private string name;
+    private int strengthBonus;
+    private int agilityBonus;
+    private int intelligenceBonus;
+    private int hitPointsBonus;
+    private int damageBous;
+    private IList<string> requiredItems;
+
+    public RecipeItem(string name, int strengthBonus, int agilityBonus, int intelligenceBonus, int hitPointsBonus, int damageBonus, List<string> requiredItems)
+    {
+        this.Name = name;
+        this.StrengthBonus = strengthBonus;
+        this.AgilityBonus = agilityBonus;
+        this.IntelligenceBonus = intelligenceBonus;
+        this.HitPointsBonus = hitPointsBonus;
+        this.DamageBonus = damageBonus;
+        this.RequiredItems = requiredItems;
+    }
+
+    public string Name
+    {
+        get { return this.name; }
+        private set { this.name = value; }
+    }
+
+    public int StrengthBonus
+    {
+        get { return this.strengthBonus; }
+        private set { this.strengthBonus = value; }
+    }
+
+    public int AgilityBonus
+    {
+        get { return this.agilityBonus; }
+        private set { this.agilityBonus = value; }
+    }
+
+    public int IntelligenceBonus
+    {
+        get { return this.intelligenceBonus; }
+        private set { this.intelligenceBonus = value; }
+    }
+
+    public int HitPointsBonus
+    {
+        get { return this.hitPointsBonus; }
+        private set { this.hitPointsBonus = value; }
+    }
+
+    public int DamageBonus
+    {
+        get { return this.damageBous; }
+        private set { this.damageBous = value; }
+    }
+
+    public IList<string> RequiredItems
+    {
+        get { return this.requiredItems; }
+        private set { this.requiredItems = value.ToList(); }
+    }
+}
+

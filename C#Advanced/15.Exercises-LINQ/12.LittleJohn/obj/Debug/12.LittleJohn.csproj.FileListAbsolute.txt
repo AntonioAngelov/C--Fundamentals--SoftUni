@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.pdb

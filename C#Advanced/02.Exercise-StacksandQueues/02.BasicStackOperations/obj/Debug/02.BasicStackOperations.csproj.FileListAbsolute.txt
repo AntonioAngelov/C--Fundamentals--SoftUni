@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb

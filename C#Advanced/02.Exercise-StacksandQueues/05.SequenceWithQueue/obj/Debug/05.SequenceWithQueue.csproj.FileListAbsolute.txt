@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.pdb

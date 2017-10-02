@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\05.DateModifier\bin\Debug\05.DateModifier.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\05.DateModifier\bin\Debug\05.DateModifier.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\05.DateModifier\bin\Debug\05.DateModifier.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\05.DateModifier\obj\Debug\05.DateModifier.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\05.DateModifier\obj\Debug\05.DateModifier.pdb

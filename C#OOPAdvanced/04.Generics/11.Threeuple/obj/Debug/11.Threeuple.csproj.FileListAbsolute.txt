@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\11.Threeuple\bin\Debug\11.Threeuple.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\11.Threeuple\bin\Debug\11.Threeuple.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\11.Threeuple\bin\Debug\11.Threeuple.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\11.Threeuple\obj\Debug\11.Threeuple.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\11.Threeuple\obj\Debug\11.Threeuple.pdb

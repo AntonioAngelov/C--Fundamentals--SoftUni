@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\bin\Debug\Bank.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\bin\Debug\Bank.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\bin\Debug\Bank.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\obj\Debug\Bank.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\01.Lab-Defining Classes\Bank\obj\Debug\Bank.pdb

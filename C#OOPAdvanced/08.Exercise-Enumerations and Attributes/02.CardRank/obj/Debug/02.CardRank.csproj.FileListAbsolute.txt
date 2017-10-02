@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\02.CardRank\bin\Debug\02.CardRank.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\02.CardRank\bin\Debug\02.CardRank.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\02.CardRank\bin\Debug\02.CardRank.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\02.CardRank\obj\Debug\02.CardRank.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\02.CardRank\obj\Debug\02.CardRank.pdb

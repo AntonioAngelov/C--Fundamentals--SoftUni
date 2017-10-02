@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

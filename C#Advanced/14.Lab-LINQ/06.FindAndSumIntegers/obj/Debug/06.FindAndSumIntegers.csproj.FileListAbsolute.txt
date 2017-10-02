@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.pdb

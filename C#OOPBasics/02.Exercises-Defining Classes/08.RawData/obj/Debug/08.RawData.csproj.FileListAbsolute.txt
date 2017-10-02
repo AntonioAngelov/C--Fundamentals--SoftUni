@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\bin\Debug\08.RawData.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\bin\Debug\08.RawData.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\bin\Debug\08.RawData.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\obj\Debug\08.RawData.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\02.Exercises-Defining Classes\08.RawData\obj\Debug\08.RawData.pdb

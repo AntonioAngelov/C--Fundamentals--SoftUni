@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\07.PredicateForNames\bin\Debug\07.PredicateForNames.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\07.PredicateForNames\obj\Debug\07.PredicateForNames.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\07.PredicateForNames\obj\Debug\07.PredicateForNames.pdb

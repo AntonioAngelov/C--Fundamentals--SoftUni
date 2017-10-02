@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\11.ThePartyReservationFilterModule.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\11.ThePartyReservationFilterModule.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\11.ThePartyReservationFilterModule.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\11.ThePartyReservationFilterModule.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\11.ThePartyReservationFilterModule.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\11.ThePartyReservationFilterModule.pdb

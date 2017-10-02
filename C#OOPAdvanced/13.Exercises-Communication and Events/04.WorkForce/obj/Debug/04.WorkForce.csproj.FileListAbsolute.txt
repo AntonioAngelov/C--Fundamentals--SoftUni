@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\bin\Debug\04.WorkForce.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\bin\Debug\04.WorkForce.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\bin\Debug\04.WorkForce.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\obj\Debug\04.WorkForce.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\obj\Debug\04.WorkForce.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\04.WorkForce\obj\Debug\04.WorkForce.pdb

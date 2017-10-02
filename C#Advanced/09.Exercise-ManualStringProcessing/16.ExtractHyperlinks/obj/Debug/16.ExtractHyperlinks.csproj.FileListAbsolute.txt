@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.pdb

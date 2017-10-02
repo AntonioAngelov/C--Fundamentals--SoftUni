@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\13.TriFunction\bin\Debug\13.TriFunction.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\13.TriFunction\bin\Debug\13.TriFunction.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\13.TriFunction\bin\Debug\13.TriFunction.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\13.TriFunction\obj\Debug\13.TriFunction.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\13.TriFunction\obj\Debug\13.TriFunction.pdb

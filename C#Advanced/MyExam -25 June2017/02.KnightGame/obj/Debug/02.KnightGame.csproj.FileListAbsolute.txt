@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\02.KnightGame\bin\Debug\02.KnightGame.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\02.KnightGame\bin\Debug\02.KnightGame.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\02.KnightGame\bin\Debug\02.KnightGame.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\02.KnightGame\obj\Debug\02.KnightGame.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\02.KnightGame\obj\Debug\02.KnightGame.pdb

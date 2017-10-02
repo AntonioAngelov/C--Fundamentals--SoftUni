@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\bin\Debug\02.NaturesProphet.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\bin\Debug\02.NaturesProphet.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\bin\Debug\02.NaturesProphet.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\obj\Debug\02.NaturesProphet.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\obj\Debug\02.NaturesProphet.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\02.NaturesProphet\obj\Debug\02.NaturesProphet.pdb

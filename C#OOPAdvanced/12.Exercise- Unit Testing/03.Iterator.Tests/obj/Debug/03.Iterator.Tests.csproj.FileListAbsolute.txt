@@ -1,0 +1,9 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\03.Iterator.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\nunit.framework.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\03.Iterator.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\bin\Debug\nunit.framework.xml
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\12.Exercise- Unit Testing\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\bin\Debug\10.PopulationCounter.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\obj\Debug\10.PopulationCounter.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\obj\Debug\10.PopulationCounter.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\10.PopulationCounter\obj\Debug\10.PopulationCounter.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.pdb

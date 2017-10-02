@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\bin\Debug\04.Froggy.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\bin\Debug\04.Froggy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\bin\Debug\04.Froggy.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\obj\Debug\04.Froggy.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\obj\Debug\04.Froggy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\06.Exercise-Iterators and Comparators\04.Froggy\obj\Debug\04.Froggy.pdb

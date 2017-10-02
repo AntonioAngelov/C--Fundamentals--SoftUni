@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\09.TrafficLights\bin\Debug\09.TrafficLights.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\09.TrafficLights\bin\Debug\09.TrafficLights.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\09.TrafficLights\bin\Debug\09.TrafficLights.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\09.TrafficLights\obj\Debug\09.TrafficLights.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\09.TrafficLights\obj\Debug\09.TrafficLights.pdb

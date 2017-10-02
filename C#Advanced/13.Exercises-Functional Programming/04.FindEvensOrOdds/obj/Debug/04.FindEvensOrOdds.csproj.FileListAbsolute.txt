@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.pdb

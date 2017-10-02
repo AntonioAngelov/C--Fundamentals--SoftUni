@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\03.Scale\bin\Debug\03.Scale.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\03.Scale\bin\Debug\03.Scale.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\03.Scale\bin\Debug\03.Scale.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\03.Scale\obj\Debug\03.Scale.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\03.Lab-Generics\03.Scale\obj\Debug\03.Scale.pdb

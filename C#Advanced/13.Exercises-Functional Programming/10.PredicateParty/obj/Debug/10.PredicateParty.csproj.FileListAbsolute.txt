@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\bin\Debug\10.PredicateParty.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\bin\Debug\10.PredicateParty.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\bin\Debug\10.PredicateParty.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\obj\Debug\10.PredicateParty.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\obj\Debug\10.PredicateParty.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\10.PredicateParty\obj\Debug\10.PredicateParty.pdb

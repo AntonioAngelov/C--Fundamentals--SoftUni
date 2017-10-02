@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\02.ParseURLs\bin\Debug\02.ParseURLs.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\02.ParseURLs\bin\Debug\02.ParseURLs.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\02.ParseURLs\bin\Debug\02.ParseURLs.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\02.ParseURLs\obj\Debug\02.ParseURLs.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\02.ParseURLs\obj\Debug\02.ParseURLs.pdb

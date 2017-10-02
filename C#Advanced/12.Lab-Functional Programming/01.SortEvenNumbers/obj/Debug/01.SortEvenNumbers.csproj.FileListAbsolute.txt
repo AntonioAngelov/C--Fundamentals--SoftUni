@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\12.Lab-Functional Programming\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.pdb

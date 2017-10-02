@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

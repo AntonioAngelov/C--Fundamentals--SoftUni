@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb

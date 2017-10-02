@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\bin\Debug\08.HandsOfCards.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\obj\Debug\08.HandsOfCards.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\obj\Debug\08.HandsOfCards.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\08.HandsOfCards\obj\Debug\08.HandsOfCards.pdb

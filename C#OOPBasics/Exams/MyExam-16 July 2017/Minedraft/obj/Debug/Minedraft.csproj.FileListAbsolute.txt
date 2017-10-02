@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\bin\Debug\Minedraft.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\bin\Debug\Minedraft.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\bin\Debug\Minedraft.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\obj\Debug\Minedraft.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\Exams\MyExam-16 July 2017\Minedraft\obj\Debug\Minedraft.pdb

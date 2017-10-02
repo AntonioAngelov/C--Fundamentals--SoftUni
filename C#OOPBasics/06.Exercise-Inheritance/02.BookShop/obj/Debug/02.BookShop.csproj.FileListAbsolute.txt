@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\bin\Debug\02.BookShop.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\bin\Debug\02.BookShop.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\bin\Debug\02.BookShop.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\obj\Debug\02.BookShop.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\obj\Debug\02.BookShop.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\02.BookShop\obj\Debug\02.BookShop.pdb

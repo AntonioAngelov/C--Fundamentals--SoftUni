@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

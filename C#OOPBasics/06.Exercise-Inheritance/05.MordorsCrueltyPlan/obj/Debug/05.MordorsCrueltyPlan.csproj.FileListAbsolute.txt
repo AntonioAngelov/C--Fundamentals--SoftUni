@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\bin\Debug\05.MordorsCrueltyPlan.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\bin\Debug\05.MordorsCrueltyPlan.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\bin\Debug\05.MordorsCrueltyPlan.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\obj\Debug\05.MordorsCrueltyPlan.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\obj\Debug\05.MordorsCrueltyPlan.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\05.MordorsCrueltyPlan\obj\Debug\05.MordorsCrueltyPlan.pdb

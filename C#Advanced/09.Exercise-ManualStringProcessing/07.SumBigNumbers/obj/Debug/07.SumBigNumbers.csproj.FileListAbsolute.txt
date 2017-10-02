@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.pdb

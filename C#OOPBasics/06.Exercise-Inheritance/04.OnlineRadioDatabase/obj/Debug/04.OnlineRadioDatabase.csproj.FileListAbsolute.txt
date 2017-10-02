@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\bin\Debug\04.OnlineRadioDatabase.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\06.Exercise-Inheritance\04.OnlineRadioDatabase\obj\Debug\04.OnlineRadioDatabase.pdb

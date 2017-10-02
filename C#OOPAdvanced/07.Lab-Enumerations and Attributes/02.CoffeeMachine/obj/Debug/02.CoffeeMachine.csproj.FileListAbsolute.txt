@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\bin\Debug\02.CoffeeMachine.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\bin\Debug\02.CoffeeMachine.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\bin\Debug\02.CoffeeMachine.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\obj\Debug\02.CoffeeMachine.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\obj\Debug\02.CoffeeMachine.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\02.CoffeeMachine\obj\Debug\02.CoffeeMachine.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\07.DeckOfCards\bin\Debug\07.DeckOfCards.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\07.DeckOfCards\bin\Debug\07.DeckOfCards.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\07.DeckOfCards\bin\Debug\07.DeckOfCards.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\07.DeckOfCards\obj\Debug\07.DeckOfCards.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\07.DeckOfCards\obj\Debug\07.DeckOfCards.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

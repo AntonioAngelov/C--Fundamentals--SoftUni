@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.pdb

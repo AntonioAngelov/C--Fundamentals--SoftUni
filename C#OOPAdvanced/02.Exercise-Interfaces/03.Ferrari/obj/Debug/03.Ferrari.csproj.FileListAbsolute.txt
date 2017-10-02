@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\03.Ferrari\bin\Debug\03.Ferrari.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\03.Ferrari\bin\Debug\03.Ferrari.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\03.Ferrari\bin\Debug\03.Ferrari.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\03.Ferrari\obj\Debug\03.Ferrari.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\02.Exercise-Interfaces\03.Ferrari\obj\Debug\03.Ferrari.pdb

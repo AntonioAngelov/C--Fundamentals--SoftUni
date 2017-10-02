@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\02.VowelCount\bin\Debug\02.VowelCount.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\02.VowelCount\bin\Debug\02.VowelCount.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\02.VowelCount\bin\Debug\02.VowelCount.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\02.VowelCount\obj\Debug\02.VowelCount.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\10.Lab-RegularExpressions\02.VowelCount\obj\Debug\02.VowelCount.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.pdb

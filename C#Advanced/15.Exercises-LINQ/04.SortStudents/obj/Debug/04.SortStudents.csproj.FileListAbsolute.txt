@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\04.SortStudents\bin\Debug\04.SortStudents.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\04.SortStudents\bin\Debug\04.SortStudents.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\04.SortStudents\bin\Debug\04.SortStudents.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\04.SortStudents\obj\Debug\04.SortStudents.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\04.SortStudents\obj\Debug\04.SortStudents.pdb

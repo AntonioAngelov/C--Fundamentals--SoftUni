@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\06.SentenceExtractor\bin\Debug\06.SentenceExtractor.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\06.SentenceExtractor\bin\Debug\06.SentenceExtractor.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\06.SentenceExtractor\bin\Debug\06.SentenceExtractor.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\06.SentenceExtractor\obj\Debug\06.SentenceExtractor.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\11.Exercise-RegularExpressions\06.SentenceExtractor\obj\Debug\06.SentenceExtractor.pdb

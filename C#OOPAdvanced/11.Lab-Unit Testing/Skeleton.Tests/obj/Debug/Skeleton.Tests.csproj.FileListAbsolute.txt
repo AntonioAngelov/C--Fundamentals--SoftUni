@@ -1,0 +1,13 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Skeleton.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Skeleton.Tests.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\nunit.framework.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Skeleton.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Skeleton.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\nunit.framework.xml
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\obj\Debug\Skeleton.Tests.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\obj\Debug\Skeleton.Tests.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\obj\Debug\Skeleton.Tests.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Castle.Core.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Moq.dll
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Moq.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\11.Lab-Unit Testing\Skeleton.Tests\bin\Debug\Moq.xml

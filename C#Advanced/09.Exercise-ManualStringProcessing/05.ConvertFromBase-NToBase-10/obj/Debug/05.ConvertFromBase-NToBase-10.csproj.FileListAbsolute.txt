@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\05.ConvertFromBase-NToBase-10\bin\Debug\05.ConvertFromBase-NToBase-10.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\05.ConvertFromBase-NToBase-10\bin\Debug\05.ConvertFromBase-NToBase-10.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\05.ConvertFromBase-NToBase-10\bin\Debug\05.ConvertFromBase-NToBase-10.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\05.ConvertFromBase-NToBase-10\obj\Debug\05.ConvertFromBase-NToBase-10.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\05.ConvertFromBase-NToBase-10\obj\Debug\05.ConvertFromBase-NToBase-10.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\14.DragonArmy\bin\Debug\14.DragonArmy.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\14.DragonArmy\bin\Debug\14.DragonArmy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\14.DragonArmy\bin\Debug\14.DragonArmy.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\14.DragonArmy\obj\Debug\14.DragonArmy.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\04.Excercise-SetsandDictionaries\14.DragonArmy\obj\Debug\14.DragonArmy.pdb

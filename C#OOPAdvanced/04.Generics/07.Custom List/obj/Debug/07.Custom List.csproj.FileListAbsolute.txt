@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\bin\Debug\07.Custom List.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\bin\Debug\07.Custom List.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\bin\Debug\07.Custom List.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\obj\Debug\07.Custom List.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\obj\Debug\07.Custom List.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\04.Generics\07.Custom List\obj\Debug\07.Custom List.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.pdb

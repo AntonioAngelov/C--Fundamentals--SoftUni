@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\bin\Debug\07.LegoBlocks.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\obj\Debug\07.LegoBlocks.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\obj\Debug\07.LegoBlocks.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\06.Exercise-Matrices\07.LegoBlocks\obj\Debug\07.LegoBlocks.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\09.Exercise-ManualStringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\bin\Debug\Lab-Inheritance.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\bin\Debug\Lab-Inheritance.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\bin\Debug\Lab-Inheritance.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\obj\Debug\Lab-Inheritance.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\obj\Debug\Lab-Inheritance.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\05.Lab-Inheritance\Lab-Inheritance\obj\Debug\Lab-Inheritance.pdb

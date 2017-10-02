@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\bin\Debug\04.Hospital.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\bin\Debug\04.Hospital.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\bin\Debug\04.Hospital.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\obj\Debug\04.Hospital.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\MyExam -25 June2017\04.Hospital\obj\Debug\04.Hospital.pdb

@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\bin\Debug\03.JediCode-X.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\obj\Debug\03.JediCode-X.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\bin\Debug\03.JediCode-X.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\bin\Debug\03.JediCode-X.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\obj\Debug\03.JediCode-X.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Sample Exam 13 June 2016\03.JediCode-X\obj\Debug\03.JediCode-X.pdb

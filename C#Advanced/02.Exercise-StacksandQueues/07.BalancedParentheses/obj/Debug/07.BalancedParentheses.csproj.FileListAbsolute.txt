@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\02.Exercise-StacksandQueues\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.pdb

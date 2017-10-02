@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\08.Exercise-Enumerations and Attributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.pdb

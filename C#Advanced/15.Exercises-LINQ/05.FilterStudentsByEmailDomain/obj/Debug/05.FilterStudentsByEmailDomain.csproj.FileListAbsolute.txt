@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\15.Exercises-LINQ\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.pdb

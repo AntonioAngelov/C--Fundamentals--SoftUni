@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.pdb

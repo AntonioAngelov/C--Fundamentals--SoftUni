@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\04.SpecialWords\bin\Debug\04.SpecialWords.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\04.SpecialWords\bin\Debug\04.SpecialWords.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\04.SpecialWords\bin\Debug\04.SpecialWords.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\04.SpecialWords\obj\Debug\04.SpecialWords.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\04.SpecialWords\obj\Debug\04.SpecialWords.pdb

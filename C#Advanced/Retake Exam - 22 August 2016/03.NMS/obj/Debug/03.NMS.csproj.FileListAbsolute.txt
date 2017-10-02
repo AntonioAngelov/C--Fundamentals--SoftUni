@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\03.NMS\bin\Debug\03.NMS.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\03.NMS\bin\Debug\03.NMS.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\03.NMS\bin\Debug\03.NMS.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\03.NMS\obj\Debug\03.NMS.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\03.NMS\obj\Debug\03.NMS.pdb

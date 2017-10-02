@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.pdb

@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\03.Lab-SetsandDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.pdb

@@ -1,0 +1,1 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\07.Exercise-StreamsАndFiles\03.WordCount\bin\Debug\03.WordCount.exe.config

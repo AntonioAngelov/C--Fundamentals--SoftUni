@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\02.UpperStrings\obj\Debug\02.UpperStrings.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\14.Lab-LINQ\02.UpperStrings\obj\Debug\02.UpperStrings.pdb

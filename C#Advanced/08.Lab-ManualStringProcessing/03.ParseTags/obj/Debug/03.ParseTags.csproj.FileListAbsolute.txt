@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\03.ParseTags\bin\Debug\03.ParseTags.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\03.ParseTags\bin\Debug\03.ParseTags.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\03.ParseTags\bin\Debug\03.ParseTags.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\03.ParseTags\obj\Debug\03.ParseTags.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\08.Lab-ManualStringProcessing\03.ParseTags\obj\Debug\03.ParseTags.pdb

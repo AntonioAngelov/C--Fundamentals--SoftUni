@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\06.MathPotato\bin\Debug\06.MathPotato.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\06.MathPotato\bin\Debug\06.MathPotato.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\06.MathPotato\bin\Debug\06.MathPotato.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\06.MathPotato\obj\Debug\06.MathPotato.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\06.MathPotato\obj\Debug\06.MathPotato.pdb

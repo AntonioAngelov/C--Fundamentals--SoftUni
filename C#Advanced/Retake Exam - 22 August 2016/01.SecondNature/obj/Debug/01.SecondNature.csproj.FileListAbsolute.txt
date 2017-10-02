@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\bin\Debug\01.SecondNature.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\bin\Debug\01.SecondNature.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\bin\Debug\01.SecondNature.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\obj\Debug\01.SecondNature.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\obj\Debug\01.SecondNature.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\Retake Exam - 22 August 2016\01.SecondNature\obj\Debug\01.SecondNature.pdb

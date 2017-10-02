@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\bin\Debug\Shapes.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\bin\Debug\Shapes.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\bin\Debug\Shapes.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\obj\Debug\Shapes.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\01.Lab-Interfaces and Abstraction\Shapes\obj\Debug\Shapes.pdb

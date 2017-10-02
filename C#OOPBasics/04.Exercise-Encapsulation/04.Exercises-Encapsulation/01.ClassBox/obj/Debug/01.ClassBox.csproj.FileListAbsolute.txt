@@ -1,0 +1,9 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\bin\Debug\01.ClassBox.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\bin\Debug\01.ClassBox.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\bin\Debug\01.ClassBox.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\obj\Debug\01.ClassBox.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\obj\Debug\01.ClassBox.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercises-Encapsulation\01.ClassBox\obj\Debug\01.ClassBox.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercise-Encapsulation\04.Exercises-Encapsulation\01.ClassBox\bin\Debug\01.ClassBox.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercise-Encapsulation\04.Exercises-Encapsulation\01.ClassBox\obj\Debug\01.ClassBox.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPBasics\04.Exercise-Encapsulation\04.Exercises-Encapsulation\01.ClassBox\obj\Debug\01.ClassBox.pdb

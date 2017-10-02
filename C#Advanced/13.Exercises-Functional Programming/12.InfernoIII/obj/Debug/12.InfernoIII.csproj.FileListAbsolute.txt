@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\bin\Debug\12.InfernoIII.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\obj\Debug\12.InfernoIII.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\bin\Debug\12.InfernoIII.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\bin\Debug\12.InfernoIII.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\obj\Debug\12.InfernoIII.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\13.Exercises-Functional Programming\12.InfernoIII\obj\Debug\12.InfernoIII.pdb

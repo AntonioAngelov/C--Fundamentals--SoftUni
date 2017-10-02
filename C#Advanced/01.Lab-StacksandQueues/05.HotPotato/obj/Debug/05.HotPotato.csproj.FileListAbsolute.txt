@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\05.HotPotato\bin\Debug\05.HotPotato.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\05.HotPotato\bin\Debug\05.HotPotato.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\05.HotPotato\obj\Debug\05.HotPotato.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#Advanced\01.Lab-StacksandQueues\05.HotPotato\obj\Debug\05.HotPotato.pdb

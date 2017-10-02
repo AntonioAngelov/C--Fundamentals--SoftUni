@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\bin\Debug\02.KingsGambit.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\bin\Debug\02.KingsGambit.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\bin\Debug\02.KingsGambit.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\obj\Debug\02.KingsGambit.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\obj\Debug\02.KingsGambit.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\13.Exercises-Communication and Events\02.KingsGambit\obj\Debug\02.KingsGambit.pdb

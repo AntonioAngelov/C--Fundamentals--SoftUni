@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\03. CreateAttribute\bin\Debug\_03.CreateAttribute.exe.config
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\03. CreateAttribute\bin\Debug\_03.CreateAttribute.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\03. CreateAttribute\bin\Debug\_03.CreateAttribute.pdb
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\03. CreateAttribute\obj\Debug\_03.CreateAttribute.exe
+E:\Uchene\SoftUni\C#Fundamentals\C#OOPAdvanced\07.Lab-Enumerations and Attributes\03. CreateAttribute\obj\Debug\_03.CreateAttribute.pdb
